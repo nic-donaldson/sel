@@ -1,6 +1,6 @@
 I've wanted this in my shell workflow for some time so today I scratched that itch.
 
-[![asciicast](https://asciinema.org/a/ORXwiRbbZn03G06h4eGZFOMwT.png)](https://asciinema.org/a/ORXwiRbbZn03G06h4eGZFOMwT)
+[![asciicast](https://asciinema.org/a/D26FWkEgjqrUjnGPqxN0t3om8)](https://asciinema.org/a/D26FWkEgjqrUjnGPqxN0t3om8)
 
 ## Installation
 
