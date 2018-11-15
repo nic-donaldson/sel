@@ -1,0 +1,7 @@
+(executable
+  (name sel)
+  (libraries core notty.unix))
+
+(env
+ (dev
+  (flags (:standard -warn-error -A))))
